@@ -1,0 +1,25 @@
+{
+  "name": "jwt-token-verify-from-public-key",
+  "version": "1.0.0",
+  "description": "A project for Verify JWT Token from Public Key",
+  "main": "index.js",
+  "scripts": {
+    "verify": "node index.js"
+  },
+  "keywords": [],
+  "author": "SUMANTA KABIRAJ",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/jwt-token-verify-from-public-key.git"
+  },
+  "bugs": {
+    "url": "https://github.com/infysumanta/jwt-token-verify-from-public-key/issues"
+  },
+  "homepage": "https://github.com/infysumanta/jwt-token-verify-from-public-key#readme"
+}
