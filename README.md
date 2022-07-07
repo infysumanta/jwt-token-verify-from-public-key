@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> A project for Verify JWT Token from Public Key
+> A Project for Verify JWT Token from Public Key
 
 ### 🏠 [Homepage](https://github.com/infysumanta/jwt-token-verify-from-public-key)
 
